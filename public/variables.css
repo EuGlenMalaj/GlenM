@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 :root {
-    --primary: #f44b5a;
+    --primary: rgb(79,129,189);
 
     --background: #31313a;
     --mid-dark-background: #16161a;
@@ -21,5 +21,5 @@
 
     --radius: 7px;
 
-    --font-family: Poppins, sans-serif;
+    --font-family: 'IBM Plex Mono', monospace;
 }

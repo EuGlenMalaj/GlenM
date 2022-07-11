@@ -11,9 +11,9 @@
     <link rel='icon' type='image/png' href={favicon}>
     <title>{title}</title>
 
-    {#each meta as m (m.name)}
+    <!-- {#each meta as m (m.name)}
         <meta name={m.name} content={m.content}>
-    {/each}
+    {/each} -->
 </svelte:head>
 
 <Background/>

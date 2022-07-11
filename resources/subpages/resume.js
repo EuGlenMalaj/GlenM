@@ -4,7 +4,7 @@ export default {
   icon: 'mdi-card-account-details',
 
   experience: {
-    title: 'Experience',
+    title: 'Work experience and internships',
     icon: 'mdi-tie',
     data: [
       {
