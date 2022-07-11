@@ -68,34 +68,47 @@ export default {
     ]
   },
   certificatesAndAwards: {
-    title: 'Certificates/Awards',
+    title: 'Licenses/Certificates',
     icon: 'mdi-medal',
     data: [
       {
-        title: 'Key of LA',
-        date: '14/07/2020',
-        issuedBy: 'Los Angeles Major',
-        description: 'I was honered to be given the key to the city by the Los Angeles Major. #goals'
+        title: 'Additional qualifications in the Electrical Engineer License ',
+        date: '26/11/2021',
+        issuedBy: 'The Ministry of Infrastructure and Energy Tirana AL',
+        description: '•Designing electrical cabinets of the distribution network, low-medium voltage lines.       •Electrical substation design, primary and secondary. High voltage lines. •Project of telephone networks, intercom, phone, internet, TV, access control, CCTV, alarm systems, fire detection systems, for civil and industrial facilities .'
       },
       {
-        title: 'Best Costume',
-        date: '19/12/2019',
-        issuedBy: 'Marvel Comics',
-        description: 'Got the award for the best costume ever made on Marvel Comics, gotta love it.'
+        title: 'House Warming 2020',
+        date: '04/09/2020',
+        issuedBy: 'Center for Energy, Water and Environmental Technology of the Artisan Chamber, Hamburg GE ',
+        description: 'Energy advice in medium-sized companies , residential and non residential buildings . '
       },
-    ]
-  },
-  academic: {
-    title: 'Academic',
-    icon: 'mdi-library-shelves',
-    data: [
       {
-        title: 'Research paper on criminals.',
-        date: '10/07/2019',
-        issuedBy: 'MIT',
-        description: 'Published a research paper at MIT about criminal behaviours and predictions.'
+        title: 'Licensed Electrical Engineer ',
+        date: '04/09/2019',
+        issuedBy: 'The Ministry of Infrastructure and Energy Tirana AL',
+        description: 'Design of electrical network lines for civil and industrial facilities.'
+      },
+      {
+        title: 'GOETHE-ZERTIFIKAT A1 START DEUTSCH 1 ',
+        date: '17/12/2018',
+        issuedBy: 'GOETHE INSTITUT, Tirana AL',
+        description: ''
+      },
+      {
+        title: 'Proof of performance TOEFL ITP TEST ',
+        date: '01/10/2016',
+        issuedBy: 'Polytechnic University of Tirana, Tirana AL',
+        description: ''
+      },
+      {
+        title: 'Certificate in installation and repair of solar module',
+        date: '05/2015 - 07/2015',
+        issuedBy: 'Regional Directorate for Public Vocational Training Nr. 4, Tirana AL',
+        description: ''
       },
     ]
+  
   },
   skills: [
     {
@@ -143,7 +156,11 @@ export default {
         },
         {
           title: 'English',
-          level: 94
+          level: 90
+        },
+        {
+          title: 'German',
+          level: 50
         },
       ]
     },
