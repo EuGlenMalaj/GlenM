@@ -1,5 +1,5 @@
 export default {
-  coverImage: 'https://media-exp2.licdn.com/dms/image/C4D16AQGI-23FrZZnXQ/profile-displaybackgroundimage-shrink_350_1400/0/1604951799708?e=1663200000&v=beta&t=Lyx7Awca8Md3m5lLXR0P3T6cN42KKI_yvA4MgtNu_iY',
+  coverImage: './img/cover.jpg',
   profileImage: './img/IMG_0084.JPG',
   fullName: 'Euglen Malaj',
   profession: 'Electrical Engineer',
