@@ -8,18 +8,18 @@ export default {
     icon: 'mdi-tie',
     data: [
       {
-        title: 'Spider-Man',
-        start: '06/2010',
+        title: 'Specialist in the field of environmental pollution control',
+        start: '06/2021',
         end: 'present',
-        company: 'Spider-Verse',
+        company: 'Consumer Protection Agency Municipality of Tirana (Albania)',
         description: 'Swinging from building to building, fighting bad guys and making a difference in the world.'
       },
       {
-        title: 'Journalist',
-        start: '06/2010',
+        title: 'Electrical Engineer',
+        start: '08/2019',
         end: 'present',
-        company: 'Freelance',
-        description: 'Taking selfies secretly and selling them to newspapers, it\s a win win, right?'
+        company: 'Part time Freelance',
+        description: 'Design in AutoCad electrical infrastructure for civil and industrial buildings and Implementation of the designed plan. '
       },
     ]
   },
