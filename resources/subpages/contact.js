@@ -8,5 +8,5 @@ export default {
   address: 'Tiranë, AL',
   hours: '9AM - 5PM',
   email: 'euglen1991@gmail.com',
-  tel: '+355 (0) 69 639 8886'
+  tel: '+355(0)69 639 8886'
 };
