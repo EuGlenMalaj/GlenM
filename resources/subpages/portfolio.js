@@ -1,6 +1,6 @@
 export default {
-  name: 'services', // do not change
-  pageTitle: 'Services',
+  name: 'portfolio', // do not change
+  pageTitle: 'Portfolio',
   header: 'Works',
   icon: 'mdi-briefcase-outline',
 

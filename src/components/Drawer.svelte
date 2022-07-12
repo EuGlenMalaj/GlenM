@@ -2,6 +2,7 @@
   import About from '../pages/About.svelte';
   import Resume from '../pages/Resume.svelte';
   import Services from '../pages/Services.svelte';
+  import Portfolio from '../pages/Portfolio.svelte';
   import Contact from '../pages/Contact.svelte';
   import TabStore from '../stores/TabStore';
 
@@ -9,6 +10,7 @@
     'about': About,
     'resume': Resume,
     'services': Services,
+    'portfolio': Portfolio,
     'contact': Contact,
   };
 </script>

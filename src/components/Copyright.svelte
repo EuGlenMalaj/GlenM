@@ -1,5 +1,5 @@
 <div class="template-footer">
-    <a href="https://github.com/jajosheni/N95">N95 Template</a>
+    <div/>
 </div>
 
 <style>
