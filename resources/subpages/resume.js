@@ -112,35 +112,32 @@ export default {
   },
   skills: [
     {
-      title: 'Swinging',
+      title: 'Driving',
       barType: 'line',
-      icon: 'mdi-web',
+      icon: 'mdi-car',
       items: [
         {
-          title: 'Horizontally',
-          level: 80
+          title: 'Driving license B category',
+          level: 100
         },
-        {
-          title: 'Vertically',
-          level: 90
-        },
+        
       ]
     },
     {
-      title: 'Design',
+      title: 'Computer skills',
       barType: 'line',
-      icon: 'mdi-brush-variant',
+      icon: 'mdi-desktop-classic',
       items: [
         {
-          title: 'Web Design',
-          level: 85
+          title: 'AutoCad 2D Design',
+          level: 77
         },
         {
-          title: 'Photoshop',
-          level: 90
+          title: 'DiaLux',
+          level: 74
         },
         {
-          title: 'After Effects',
+          title: 'Microsoft Office',
           level: 80
         },
       ]
@@ -156,11 +153,12 @@ export default {
         },
         {
           title: 'English',
-          level: 90
+          level: 75
         },
         {
           title: 'German',
-          level: 50
+          level: 25
+        
         },
       ]
     },
@@ -169,13 +167,10 @@ export default {
       barType: 'dots',
       icon: 'mdi-book-open-page-variant',
       items: [
-        {
-          title: 'Web shoot',
-          level: 94
-        },
+        
         {
           title: 'Taking pictures',
-          level: 91
+          level: 85
         },
       ]
     }

@@ -18,7 +18,7 @@
 
 <style>
     .award {
-        min-height: 180px;
+        min-height: 90px;
     }
 
     .award:last-of-type {

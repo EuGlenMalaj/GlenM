@@ -13,14 +13,14 @@ export default {
   quote: 'An ambitious man either wins or learns.',
   hobbies: [
     {
-      title: 'Table Tennis',
-      icon: 'mdi-table-tennis',
-      description: 'A terrific game to play, keeps one\'s mind sharp and ready.'
+      title: 'Hiking',
+      icon: 'mdi-hiking',
+      description: 'Everyone wants to go to the top of the mountain, but no one knows the pleasure it gives you climbing up it.'
     },
     {
-      title: 'Football',
-      icon: 'mdi-soccer',
-      description: 'Who would not enjoy a match with friends on a friday evening?'
+      title: 'Swiming',
+      icon: 'mdi-swim',
+      description: 'Who would not enjoy a swim on a hot sunny day?'
     },
   ]
 };
