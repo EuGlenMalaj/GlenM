@@ -12,7 +12,7 @@ export default {
         start: '06/2021',
         end: 'present',
         company: 'Consumer Protection Agency Municipality of Tirana AL',
-        description: 'Experts who monitor the impact of a population on the environment, identifying environmental issues, and recommending solutions.'
+        description: 'Specialist who monitor the impact of polution on the environment, identifying environmental issues, and recommending solutions.'
       },
       {
         title: 'Electrical Engineer',
