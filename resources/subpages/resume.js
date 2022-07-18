@@ -170,7 +170,11 @@ export default {
         
         {
           title: 'Taking pictures',
-          level: 85
+          level: 65
+        },
+        {
+          title: 'Knowing where to look for solutions when a problem arises.',
+          level: 95
         },
       ]
     }
