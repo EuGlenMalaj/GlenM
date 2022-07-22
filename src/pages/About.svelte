@@ -44,6 +44,7 @@
         font-family: Poppins, sans-serif;
         font-weight: 300;
         font-size: 0.95em;
+        white-space: pre-wrap;
     }
 </style>
 
