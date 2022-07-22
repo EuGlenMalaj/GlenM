@@ -16,6 +16,7 @@
 <style>
     .product {
         width: calc(50% - 15px);
+        white-space: pre-wrap;
     }
 
     .services-container {

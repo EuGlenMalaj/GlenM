@@ -20,7 +20,7 @@ export default {
     {
       title: 'Swiming',
       icon: 'mdi-swim',
-      description: 'Who would not enjoy a swim on a hot sunny day?'
+      description: 'Jump in and lose yourself.'
     },
   ]
 };
