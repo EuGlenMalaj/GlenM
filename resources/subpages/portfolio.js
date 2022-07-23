@@ -19,7 +19,7 @@ export default {
     {
       title: 'INTERIOR DESIGN AND BUILD CO-ORDINATOR for a 2 bedroom + kitchen + bathroom flat located in Tirana.',
       icon: 'mdi-account-hard-hat',
-      description: ' \n• Creating an energy-efficient project, using efficient electrical equipment and LED lighting. \n• Installation of an efficient heating and cooling system, thermal insulation of the walls of the apartment,laying the temperature insulating floor system and replacement of the openings of the apartment with a more efficient system. \n• Porpouse : Designing a productive system while maintaining a cost-quality balance in such a way as to fulfill the criteria of an efficient system as well as fulfilling the clients requirements.'
+      description: ' \n• Creating an energy-efficient project, using efficient electrical equipment and LED lighting. \n• Installation of an efficient heating and cooling system, thermal insulation of the walls of the apartment,laying the temperature insulating floor system and replacement of the openings of the apartment with a more efficient system. \n• Purpose : Designing a productive system while maintaining a cost-quality balance in such a way as to fulfill the criteria of an efficient system as well as fulfilling the clients requirements.'
     },{
       title: 'Experimenting on web developing.',
       icon: 'mdi-web',
