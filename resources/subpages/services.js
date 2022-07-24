@@ -9,7 +9,7 @@ export default {
     {
       title: 'AutoCAD Electrical drawings, schemes and floor plans',
       icon: 'mdi-file-cad-box',
-      description: '•Indoor / Outdoor (Electrical drawing) lighting layout plan.\n• AC Telephone, television, and computer drawing and layout plan.\n• Smoke detector and public address system drawing and layout plan.\n• Lightning protection layout plan.\n• Generator and transformer to Main Panel layout plan. \n• According to IEC, IEEE, IET RULES & STANDARDS.'
+      description: '► Electrical Layout Plan\n • Indoor / Outdoor\n   lighting.\n • AC Telephone, television,\n   and computer drawing.\n • Smoke detector .\n • Lightning protection.\n • Generator and transformer\n   to Main Panel. \n • According to IEC, IEEE,\n   IET RULES & STANDARDS.'
 
     },
     {
