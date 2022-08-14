@@ -7,12 +7,12 @@ export default {
   footer: 'Footer , ca te duash',
   products: [
     {
-      title: 'Electrical project for a residential and service facility \n(2700 sq/m)\n▼ Location Thumane Municipality Kruje ',
+      title: 'Electrical project for a residential and service facility \n(2700 sq/m)\n▼ Location Thumane Kruje ',
       icon: 'mdi-file-cad-box',
       description: '► Electrical Layout Plan \n • Indoor/Outdoor lighting \n • Power plug \n • Telephone, television\n   and computer drawing \n • Lightning protection \n► Technical report according to IEC, IEEE, IET RULES & STANDARDS. '
     },
     {
-      title: 'Electrical project for AGRO TOURISM FUNCTION BUILDING 2 FLOOR + BASEMENT \n( 700 sq/m)\n▼ Location Golem Gjirokaster',
+      title: 'Electrical project for AGRO TOURISM FUNCTION facility 2 FLOOR + BASEMENT \n( 700 sq/m)\n▼ Location Golem Gjirokaster',
       icon: 'mdi-file-cad-box',
       description: '► Electrical Layout Plan \n • Indoor/Outdoor lighting \n • Power plug \n • Telephone, television\n   and computer drawing \n • Lightning protection \n► Technical report according to IEC, IEEE, IET RULES & STANDARDS. '
     },

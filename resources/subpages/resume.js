@@ -27,13 +27,15 @@ export default {
         end: '06/2021',
         company: 'GENA Family Business Ballsh AL',
         description: 'Leadership of a staff of nine to twelve people        • Create a work plan and delegate work to the team members          • Assess progress and adjust the plan accordingly'
-      },{
+      },
+      {
         title: 'Electrical Engineer',
         start: '04/2018',
         end: '08/2018',
         company: 'Industrial automation (Automatizime industriale) Tirana AL',
         description: '•Work on the construction and testing of electrical / automation panels                •Design in the AutoCAD infrastructure of electrical / automation panels        •Maintenance of industrial printers (trained for printers VIDEOJET USA) '
-      },{
+      },
+      {
         title: 'Inspection Specialist',
         start: '05/2017',
         end: '07/2017',

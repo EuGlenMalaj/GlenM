@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 :root {
-    --primary: rgb(79,129,189);
+    --primary: rgb(255, 255, 255);
 
     --background: #31313a;
     --mid-dark-background: #16161a;
