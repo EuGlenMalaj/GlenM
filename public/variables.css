@@ -3,10 +3,10 @@
 :root {
     --primary: rgb(255, 255, 255);
 
-    --background: #31313a;
-    --mid-dark-background: #16161a;
-    --dark-background: #1c1c21;
-    --card-background: rgba(49, 49, 58, 0.75);
+    --background: #077492;
+    --mid-dark-background: #07045d;
+    --dark-background: #000000;
+    --card-background: #000000cc;
 
     --shadow-color: rgba(0, 0, 0, 0.2);
 
