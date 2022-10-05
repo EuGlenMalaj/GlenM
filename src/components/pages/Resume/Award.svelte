@@ -27,7 +27,7 @@
 
     .duration {
         font-size: 13px;
-        background-color: var(--primary);
+        background-color: var(--background);
         border-radius: var(--radius);
         padding: 1px 6px;
     }

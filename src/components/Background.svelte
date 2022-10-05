@@ -13,7 +13,7 @@
     .animation-area {
         position: fixed;
         z-index: -1000;
-        background: rgb(182, 215, 235);
+        background: var(--background);
         width: 100%;
         height: 100vh
     }
